@@ -46,11 +46,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+As I am new to andriod app development, i was stuck in many areas. I watched lot of video and gone through lot of articles to complete this application. Implementing 'correctness' of their guess through colors on the word was the challencing task for me. It took 4 hrs for me to completly understand Spannables adn implement it.   
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Ajay Balaji D]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

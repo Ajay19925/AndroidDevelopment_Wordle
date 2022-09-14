@@ -46,7 +46,7 @@ GIF created with ...
 
 ## Notes
 
-As I am new to andriod app development, i was stuck in many areas. I watched lot of video and gone through lot of articles to complete this application. Implementing 'correctness' of their guess through colors on the word was the challencing task for me. It took 4 hrs for me to completly understand Spannables adn implement it.   
+As I am new to andriod app development, i was stuck in many areas. I watched lot of video and gone through lot of articles to complete this application. Implementing 'correctness' of their guess through colors on the word was the challencing task for me. It took 4 hrs for me to completly understand Spannables and implement it.   
 
 ## License
 
